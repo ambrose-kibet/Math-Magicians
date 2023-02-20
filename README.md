@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Leaderboard <a name="about-project"></a>
+# 📖 Math Magicians<a name="about-project"></a>
 
 **Math Magicians** Is a calculator application built with react.
 
