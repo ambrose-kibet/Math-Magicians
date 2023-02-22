@@ -14,6 +14,6 @@ const buttons = [
   { item: '1', id: 13 },
   { item: '2', id: 14 },
   { item: '3', id: 15 },
-  { item: '+', id: 16 },
+  { item: '÷', id: 16 },
 ];
 export default buttons;
