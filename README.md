@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link coming soon]()
 
 <!-- GETTING STARTED -->
 
@@ -67,6 +67,15 @@ To get this repository to your desired folder:
 ```sh
   cd my-folder
   gitclone https://github.com/ambrose-kibet/Math-Magicians.gitt
+```
+
+### Running the app
+
+To get app running:
+
+```sh
+ npm install
+ npm start
 ```
 
 - <!-- AUTHORS -->
