@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-props-no-spreading */
 import buttons from '../utils/buttons';
 import Button from './Botton';
 
