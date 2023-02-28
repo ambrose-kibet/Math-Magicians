@@ -4,6 +4,7 @@ import ErrorPage from './Pages/ErrorPage';
 import Home from './Pages/Home';
 import Quote from './Pages/Quote';
 import SharedLayout from './Pages/SharedLayout';
+import './styles.css';
 
 function App() {
   return (
