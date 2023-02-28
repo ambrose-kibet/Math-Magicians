@@ -66,7 +66,7 @@ To get this repository to your desired folder:
 
 ```sh
   cd my-folder
-  gitclone https://github.com/ambrose-kibet/Math-Magicians.gitt
+  gitclone https://github.com/ambrose-kibet/Math-Magicians.git
 ```
 
 ### Running the app
