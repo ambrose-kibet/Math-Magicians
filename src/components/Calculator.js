@@ -20,6 +20,7 @@ const Calculator = () => {
         <input
           type="text"
           className="display"
+          readOnly
           value={calc.next || calc.total || 0}
         />
         <div className="button-container">
