@@ -52,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link coming soon]()
+- [Live Demo Link](https://math-magicians-d36z.onrender.com)
 
 <!-- GETTING STARTED -->
 
